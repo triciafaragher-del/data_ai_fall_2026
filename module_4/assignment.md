@@ -84,7 +84,7 @@ Note: Your numbers here should match your Excel/Google Sheets analysis.
 
 ## Step 4: Submission
 
-- [ ] Drop in a link to your completed project in [this discussion](https://github.com/Tech-Moms/data_ai_fall_2025/discussions/51).
+- [ ] Drop in a link to your completed project in [this discussion](https://github.com/Tech-Moms/data_ai_fall_2026/discussions/39).
 
 #### How to Share a Deep Note Link:
 

@@ -1,4 +1,4 @@
-# Module 6: Intro to SQL 
+# Module 4: Intro to SQL 
 
 ## Overview: 
 This section provides an introductory exploration into the fundamental concepts and skills needed to effectively query and manipulate data using Structured Query Language (SQL). 
@@ -83,4 +83,4 @@ Additional resources:
 
 _Estimated time to complete: 6 hours_
 
-- [ ] Complete the SQL assignment [here](https://github.com/Tech-Moms/data_ai_fall_2026/blob/module_4/module_4/assignment.md) and drop in your completed project in [this discussion](https://github.com/Tech-Moms/data_ai_fall_2026/discussions/39). 
+- [ ] Complete the SQL assignment [here](https://github.com/Tech-Moms/data_ai_fall_2026/blob/main/module_4/assignment.md) and drop in your completed project in [this discussion](https://github.com/Tech-Moms/data_ai_fall_2026/discussions/39). 
